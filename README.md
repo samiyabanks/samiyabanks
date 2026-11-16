@@ -72,5 +72,5 @@ tools       Git, GitHub
 ## Contact
 
 <pre>
-<b>~/links</b>   <a href="https://github.com/samiyabanks">GitHub</a>  ·  <a href="mailto:you@example.com">Email</a>  ·  <a href="https://linkedin.com/in/your-handle">LinkedIn</a>
+<b>~/links</b>   <a href="https://github.com/samiyabanks">GitHub</a>  ·  <a href="mailto:samiyabanks3@gmail.com">Email</a>
 </pre>
