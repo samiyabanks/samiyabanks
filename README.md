@@ -12,7 +12,7 @@ location    austin , texas
 <table>
 <thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
 <tbody>
-<tr><td align="left"><a href="https://github.com/samiyabanks/myApi">myApi</a></td><td align="left">My first RESTful API created using c++ including full crud functionality paired with in memoty storage</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/samiyabanks/myApi">myApi</a></td><td align="left">My first RESTful API created using c++ including full crud functionality paired with in memory storage</td><td align="right">0</td></tr>
 <tr><td align="left"><a href="https://github.com/samiyabanks/samiyabanks">samiyabanks</a></td><td align="left">—</td><td align="right">0</td></tr>
 <tr><td align="left"><a href="https://github.com/samiyabanks/odin-recipes">odin-recipes</a></td><td align="left">—</td><td align="right">0</td></tr>
 <tr><td align="left"><a href="https://github.com/samiyabanks/git_test">git_test</a></td><td align="left">—</td><td align="right">0</td></tr>
